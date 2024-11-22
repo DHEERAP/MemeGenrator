@@ -9,7 +9,7 @@
     "react-scripts": "5.0.1"
   },
 
-"homepage": "https://<your-github-username>.github.io/DHEERAP/MemeGenrator.git",
+  "homepage": "https://DHEERAP.github.io/MemeGenrator",
 
 
   "scripts": {
@@ -42,3 +42,4 @@
     "gh-pages": "^6.2.0"
   }
 }
+
