@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/MemeGenrator/static/js/main.f4d0a4d5.js",
+    "index.html": "/MemeGenrator/index.html",
+    "main.f4d0a4d5.js.map": "/MemeGenrator/static/js/main.f4d0a4d5.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f4d0a4d5.js"
+  ]
+}
